@@ -42,11 +42,11 @@ export default function Header() {
         </div>
         <div className="flex gap-x-12">
           <a
-            href="#services"
+            href="#Sparknova LLC"
             className="text-sm font-semibold leading-6 text-foreground hover:text-primary transition-colors"
-            onClick={(e) => scrollToSection(e, "services")}
+            
           >
-            Services
+            Sparknova LLC
           </a>
         </div>
         <div className="flex flex-1 justify-end items-center gap-4">
