@@ -8,8 +8,8 @@ import type React from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Minimal Creative Agency",
-  description: "Apple-inspired design portfolio",
+  title: "Sparknova LLC",
+  description: "Focus on AI-assisted design",
     generator: 'v0.dev'
 }
 
