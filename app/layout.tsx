@@ -10,7 +10,12 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Sparknova LLC",
   description: "Focus on AI-assisted design",
-    generator: 'v0.dev'
+    generator: 'v0.dev',
+    icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/apple-touch-icon.png'
+  }
 }
 
 export default function RootLayout({
